@@ -25,9 +25,8 @@ I`m student....
 
 ### 📊 Stats
 
-![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinKirilov13&show_icons=true&theme=gruvbox)
-![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api?username=ValentinKirilov13&theme=gruvbox&layout=compact)
-![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api?username=ValentinKirilov13&show_icons=true&theme=gruvbox&layout=compact)
+![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinKirilov13&show_icons=true&theme=gruvbox&layout=compact)
+![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api?username=ValentinKirilov13&show_icons=true&theme=gruvbox)
 
 #
 
