@@ -21,11 +21,12 @@ I`m student....
 
 <br />
 
-![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinKirilov13&show_icons=true&theme=gruvbox&layout=compact)
 #
 
 ### 📊 Stats
 
+![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinKirilov13&show_icons=true&theme=gruvbox&layout=compact)
+<br />
 ![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api?username=ValentinKirilov13&show_icons=true&theme=gruvbox)
 
 #
