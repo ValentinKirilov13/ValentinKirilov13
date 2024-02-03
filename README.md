@@ -2,7 +2,7 @@
 
 **`Software Student`**
 
-I`m student....
+I`m student of Software Engineering in .Net world with main language C# for back-end developer. I write simple MVC apps, OOP console applications with EF Core. Also I know how to work with RDBMS and I write SQL queries. I have some experiance with front-end development and write some basic projects with vanila JavaScript, HTML and CSS. Now I am learning in depth ASP.NET MVC and after that I will start with RESTful APi.
 
 ---
 
