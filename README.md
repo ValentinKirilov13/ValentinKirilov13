@@ -26,7 +26,6 @@ I`m student....
 ### 📊 Stats
 
 ![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinKirilov13&show_icons=true&theme=gruvbox)
-<br />
 ![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api?username=ValentinKirilov13&show_icons=true&theme=gruvbox)
 
 #
