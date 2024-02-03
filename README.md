@@ -23,7 +23,7 @@ I`m student....
 
 ### 📊 Stats
 
-https://github-readme-stats.vercel.app/api?username=ValentinKirilov13&show_icons=true&theme=gruvbox
+![Valentin's stats](https://github-readme-stats.vercel.app/api?username=ValentinKirilov13&show_icons=true&theme=gruvbox)
 
 #
 
