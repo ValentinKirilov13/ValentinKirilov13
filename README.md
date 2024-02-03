@@ -12,7 +12,7 @@ I`m student....
 <img align="left" alt=".Net Core" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Ef" width="50px" style="padding-right:10px;" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />
 <img align="left" alt="MsSql" width="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" />  
-<img align="left" alt="ASP" width="50px" higth="50px" style="padding-right:10px;" src="https://www.pragimtech.com/wp-content/uploads/2019/04/asp-mvc.jpg" />
+<img align="left" alt="ASP" width="50px"  style="padding-right:10px;" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
