@@ -23,7 +23,6 @@ I'm a software engineering student in the .Net world with main language C# as a 
 <br />
 
  ![ValentinKirilov13's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinKirilov13&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9) 
-
 <br />
 
 ### 📊 Stats
