@@ -34,3 +34,12 @@ As a software engineering student specializing in the .NET world, my primary foc
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   I began my coding journey during my first year of university at the University of Architecture, Construction, and Geodesy. Originally enrolled in civil engineering due to my high school background, I found a growing interest in programming. This led me to pursue courses at the Software University (SoftUni) for C# web development. Upon completing my first year at the initial university, I made the decision to transfer to Sofia Technical University for the Management and Business Information Systems program (Engineer Manager). I am currently in the second part of my first year there. Simultaneously, I am actively participating in C# developer courses at SoftUni, engaging in daily coding, and recently delving into ASP.NET, where I successfully created my first web application at the beginning of this year.
+</details>
+
+<details>
+ <summary><h3>📜 My Certificates</h3></summary>
+![Programming Basics - September 2022 - Certificate](https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/26a73445-b549-44d9-bc32-8795ee6f56bd)
+
+
+
+</details>
