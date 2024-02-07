@@ -40,10 +40,11 @@ As a software engineering student specializing in the .NET world, my primary foc
  <summary><h3>📜 My Certificates</h3></summary>
      
 <code><img  alt="Basic" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/488c3892-668e-4a6b-a0ab-8f3609c3a78e" /></code>
-<code><img  alt="Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/1ab1da0b-3e0c-49c0-b1e2-cc59e95bf32d" /></code>
 <code><img  alt="Advanced" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/9ac650e4-d869-4d21-9932-8d75e98e778b" /></code>
 <code><img  alt="OOP" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/636a1c7a-4ae6-4b88-b4aa-fe1b78c75c0d" /></code>
 <code><img  alt="MSSQL" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/c639bf34-6330-468c-8af9-c088abd92576" /></code>
 <code><img  alt="EntityFrameworkCore" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/d7161c55-b718-42c6-a721-e09903a5c8ec" /></code>
+<br />
+<code><img  alt="Fundamentals" width="300px" style="padding-right:10px;" src="https://github.com/ValentinKirilov13/ValentinKirilov13/assets/144913661/1ab1da0b-3e0c-49c0-b1e2-cc59e95bf32d" /></code>
 
 </details>
